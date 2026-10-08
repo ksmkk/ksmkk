@@ -7,8 +7,8 @@
 **Ingeniería Civil en Computación e Informática — Universidad Católica del Norte (UCN)**  
 **Minor en Seguridad Digital y Ciberinteligencia**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_PERFIL/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repositorios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bastian-andre-salinas-collado/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositorios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ksmkk)
 ![Location](https://img.shields.io/badge/Chile-🇨🇱-red?style=for-the-badge)
 
 </div>
