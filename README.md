@@ -78,21 +78,7 @@ I'm a **co-founder and facilitator of Academia de Ciberseguridad UCN** (April 20
 _🇨🇱 Próximamente: proyectos documentados, laboratorios reproducibles y aprendizajes técnicos._  
 _🇬🇧 Coming soon: documented projects, reproducible labs, and technical learning notes._
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksmkk&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksmkk&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-> Las estadísticas dependen de servicios externos y pueden no mostrarse si el servicio está temporalmente fuera de línea. / Stats depend on third-party services and may be temporarily unavailable.
-
----
 
 ## 📚 En aprendizaje continuo | Currently learning
 
